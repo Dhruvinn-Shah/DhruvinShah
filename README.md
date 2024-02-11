@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruvin Shah</h1>
 <h3 align="center">A passionate Product Manager from India.</h3>
 
-- 💬 Ask me about **Product Management and Data NA**
+- 💬 Ask me about **Product Management and Data**
 
 - ⚡ Fun fact **I am a Gamer, a Traveler and a Content Creator!**
 
