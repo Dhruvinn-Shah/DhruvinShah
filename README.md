@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruvin Shah</h1>
-<h3 align="center">A passionate Product Manager from India.</h3>
+<h3 align="center">A passionate Product Manager and Data Analyst from India.</h3>
 
 - 💬 Ask me about **Product Management and Data**
 
